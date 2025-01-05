@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Aboubekrine</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/aboubakar-sidigh-sow-166537217/" target="_blank" rel="noreferrer">Abou</a> is a passionate Software Engineer from Mauritania, working on Full Stack and DevOps for 0 years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/aboubakar-sidigh-sow-166537217/" target="_blank" rel="noreferrer">Abou</a> is a passionate Software Engineer from Mauritania, working on Full Stack and DevOps for 1 years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
 
@@ -44,7 +44,7 @@ src="https://brandlogos.net/wp-content/uploads/2015/07/window-10-logo-vector.png
 </p>
 
 - 💬 Ask me about **SpringBoot,Angular**
-- 📫 How to reach me **[sow.aboubakrine1008@gmail.com](mailto:sow.aboubakrine1008@gmail.com)**
+- 📫 How to reach me **[abbkr100@gmail.com](mailto:sow.aboubakrine1008@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
 
